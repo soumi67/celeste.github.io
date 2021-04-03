@@ -1,0 +1,99 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: linear-gradient(to bottom,#FFE4E1, rgb(128, 0, 64));
+    height: 1530px;   
+}
+nav
+{
+  padding: 30px 0;
+  width: 100%;
+  overflow: hidden;
+}
+.contenu
+  {
+    margin-top: 20px;
+    border: 1px solid  rgb(255,255,255,0.4);
+    background-color: rgb(255,255,255,0.4);
+    margin-left: 200px;
+    margin-right: 200px;
+
+  }
+li a 
+{
+  color:black;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  padding-left: 60px;
+  text-align: right;
+
+
+}
+li {
+    list-style: none;
+  
+  }
+ul {
+    display: flex;
+  }
+  .right {
+    float: right;
+    margin-right: 33px;
+    margin-top: -68px;
+
+  }
+  #weird
+  {
+    font-family: 'Freebooter Script', sans-serif;
+    font-size: 30pt;
+    
+    font-weight: normal;
+    font-style: italic;
+    color: #B29EAD;
+
+  }
+  #normal
+  {
+    font-family: 'Gabrielle', sans-serif;
+    font-size: 30pt;
+    font-weight: normal;
+    font-style: italic;     
+    color:#B29EAD;                                                                           
+  }
+  img
+  {
+    margin-top: 13% ;
+    margin-left: 6%;
+    height: 40%;
+    width: 50%;
+  }
+  h3{
+    margin-left: 65%;
+    text-align: left;
+    margin-top: -46% ;
+    font-size: 50pt;
+    color: #DBC0C6;
+    text-shadow: 4px 4px 4px #767489;
+    font-family: 'Gabrielle', sans-serif;
+
+
+
+  }
+  .c
+  {
+    text-align: left;
+    margin-top: 2% ;
+    margin-left: 57%;
+    font-size: 15pt;
+    font-family: "DancingScript";
+    
+  }
+ 
+
+   
+  
