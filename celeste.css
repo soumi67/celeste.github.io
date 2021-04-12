@@ -6,7 +6,7 @@
 body
 {
     background: linear-gradient(to bottom,#FFE4E1, rgb(128, 0, 64));
-    height: 1530px;   
+    height: 2500px;   
 }
 nav
 {
@@ -72,11 +72,11 @@ ul {
     height: 30%;
     width: 40%;
   }
-  h3{
-    margin-left: 65%;
+  #titre1{
+    margin-left: 62%;
     text-align: left;
     margin-top: -37% ;
-    font-size: 50pt;
+    font-size: 60pt;
     color: #DBC0C6;
     text-shadow: 4px 4px 4px #767489;
     font-family: 'Gabrielle', sans-serif;
@@ -88,10 +88,37 @@ ul {
   {
     text-align: left;
     margin-top: 2% ;
-    margin-left: 57%;
+    margin-left: 50%;
+    margin-right: 20px;
     font-size: 15pt;
     font-family: "DancingScript";
+    text-align: justify;
     
+  }
+  #titre
+  {
+    margin-top: 13%
+  }
+  #book
+  {
+    margin-top: 40% ;
+    margin-left: 30%;
+    height: 30%;
+    width: 40%;
+  }
+  #titre2
+  {
+    font-size: 50pt;
+    color: #DBC0C6;
+    text-shadow: 4px 4px 4px #c077e2;
+    font-family: 'Gabrielle', sans-serif;
+    text-align: center;
+  }
+  .d{
+    margin-top: 2% ;
+     text-align: center;
+     font-size: 15pt;
+     font-family: "DancingScript";
   }
  
 
