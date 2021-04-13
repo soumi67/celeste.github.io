@@ -1,3 +1,7 @@
+@font-face {
+  font-family:dancing ;
+  src: url(fonts/DancingScript-VariableFont_wght.ttf);
+}
 *
 {
     margin: 0;
@@ -6,7 +10,7 @@
 body
 {
     background: linear-gradient(to bottom,#FFE4E1, rgb(128, 0, 64));
-    height: 2500px;   
+    height: 4000px;   
 }
 nav
 {
@@ -78,7 +82,7 @@ ul {
     margin-top: -37% ;
     font-size: 60pt;
     color: #DBC0C6;
-    text-shadow: 4px 4px 4px #767489;
+    text-shadow: 4px 4px 4px #502434;
     font-family: 'Gabrielle', sans-serif;
 
 
@@ -90,8 +94,8 @@ ul {
     margin-top: 2% ;
     margin-left: 50%;
     margin-right: 20px;
-    font-size: 15pt;
-    font-family: "DancingScript";
+    font-size: 20pt;
+    font-family: "dancing";
     text-align: justify;
     
   }
@@ -110,16 +114,68 @@ ul {
   {
     font-size: 50pt;
     color: #DBC0C6;
-    text-shadow: 4px 4px 4px #c077e2;
+    text-shadow: 4px 4px 4px #502434;
     font-family: 'Gabrielle', sans-serif;
     text-align: center;
   }
   .d{
     margin-top: 2% ;
      text-align: center;
-     font-size: 15pt;
-     font-family: "DancingScript";
+     font-size: 40pt;
+     font-family: "dancing";
   }
+  #sit{
+    
+    margin-top: 40% ;
+    margin-left: 1%;
+    height: 30%;
+  }
+  #third{
+    margin-top: -9%;
+  }
+  
+  #titre3
+  {
+    text-decoration: none;
+    font-size: 50pt;
+    color: #DBC0C6;
+    text-shadow: 4px 4px 4px #502434;
+    font-family: 'Gabrielle', sans-serif;
+    margin-top: -27%;
+    margin-left: 67%;
+    text-align: left;
+    
+  }
+  .o{
+    text-align: left;
+    margin-top: 2% ;
+    margin-left: 50%;
+    margin-right: 20px;
+    font-size: 20pt;
+    font-family: "dancing";
+    text-align: justify;
+
+  }
+  #sign{
+    position: relative;
+    display: inline-block;
+    color: #FFE4E1;
+    background: linear-gradient(90deg,#ad5273,#b66aa3);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    padding: 12px 36px;
+    margin-left: 70%;
+    margin-top: 3%;
+    overflow: hidden;
+  }
+  
+  
+    
+    
+  
  
 
    
